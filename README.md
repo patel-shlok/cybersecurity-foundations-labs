@@ -1,6 +1,6 @@
 # SIEM-Documentation
 
-16 Technical Incident Reports & Summaries: These files demonstrate your ability to execute the full lifecycle of a Tier 1 SOC Analyst workflow, from initial alert triage to final remediation. They cover a wide range of critical defensive competencies, including:
+16 Technical Incident Reports & Summaries: These files demonstrate ability to execute the full lifecycle of a Tier 1 SOC Analyst workflow, from initial alert triage to final remediation. They cover a wide range of critical defensive competencies, including:
 
 Threat Detection & Analysis: Reports on investigating suspicious file hashes, analyzing network protocols, and identifying attack vectors like malicious USB drives.
 
